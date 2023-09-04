@@ -1,6 +1,6 @@
 # datastructures
 
-# Homeworks
+# Topics
 1. ArrayList
 2. Circular Singly Linked List
 3. Array/LinkedList Queue/Stack
